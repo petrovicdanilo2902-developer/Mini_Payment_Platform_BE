@@ -44,3 +44,9 @@ yarn-error.log
 *.jfm
 *.pdb
 *.cache
+
+# Configuration and secrets
+appsettings.*.json
+appsettings.json
+secrets.json
+
